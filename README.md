@@ -1,1 +1,1 @@
-# Sun_Tracking
+# Outdoor Illumination Estimation using Shadow Information
